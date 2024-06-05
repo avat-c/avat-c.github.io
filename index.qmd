@@ -1,11 +1,25 @@
 ---
-title: "avat-c.github.io"
+title: "Ava Toomey-Cordeiro"
+image: yosemite_headshot.jpeg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/ava-toomey-cordeiro-1386a2298/
+    - text: GitHub
+      href: https://github.com/avat-c
+    - text: Email
+      href: mailto:avatoomey-cordeiro@gmail.com
 ---
 
-This is a Quarto website.
+## Welcome!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Thanks for checking out my website! I'm excited to share a bit about myself with you.
 
-```{r}
-1 + 1
-```
+------------------------------------------------------------------------
+
+## About Me 
+
+I am a fourth-year student currently finishing a Bachelors of Science in Environmental Studies at the University of California, Santa Barbara. I am passionate about building sustainable food systems and am excited about the positive impacts of agroecological transitions on people and environment. Along with agriculture, I have interests in soil science, ecological restoration, entomology, and data-driven environmental policy. Outside of my academic interests, I love to hike, cook with friends, and swim in cold water!

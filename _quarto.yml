@@ -1,19 +1,23 @@
 project:
   type: website
-
+  output-dir: docs
 website:
-  title: "avat-c.github.io"
-  navbar:
+  title: "Ava Toomey-Cordeiro"
+  navbar: 
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: edandexperience.qmd
+        text: Education and Experience
+      
 
 format:
   html:
-    theme: cosmo
+    theme: morph
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
