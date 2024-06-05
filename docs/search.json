@@ -1,16 +1,51 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "edandexperience.html",
+    "href": "edandexperience.html",
+    "title": "Ava Toomey-Cordeiro",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "BS, Environmental Studies (2024) | University of California, Santa Barbara\n\n\nAgroecology (April 2024 - June 2024)\nExploration of agroecology as a scientific discipline rooted in indigenous foodways. Focus on agroecological practices, socio-economic contexts of agroecology, and agroecological transitions at scale.\nEnvironmental Data Science (April 2024 - June 2024)\nStatistical data analysis and visualization. Coded various statisical tests and visualizations using R and Rstudio. Focus on descriptive statistics, analyzing differences between populations, hypothesis testing, regression analysis, and types of bias. Developed Git and Github competency.\nSoils of California: Formation, Morphology and Management (April 2024 - June 2024)\nSoil genesis, classification, and sustainable land management in CA soils. Emphasis on soil descriptions, field methods, and management implications.\nFood, Agriculture and Environment (Jan 2023 - March 2023)\nConducted independent interview-based research project, focused on food justice and community advocacy, selected as model project for future students\nIntroductory Biology and Ecology (Sept 2022 - June 2023)\nBiology lab and field technique, experimental design, data collection, statistical analysis, scientific poster and paper writing"
+  },
+  {
+    "objectID": "edandexperience.html#education",
+    "href": "edandexperience.html#education",
+    "title": "Ava Toomey-Cordeiro",
+    "section": "",
+    "text": "BS, Environmental Studies (2024) | University of California, Santa Barbara\n\n\nAgroecology (April 2024 - June 2024)\nExploration of agroecology as a scientific discipline rooted in indigenous foodways. Focus on agroecological practices, socio-economic contexts of agroecology, and agroecological transitions at scale.\nEnvironmental Data Science (April 2024 - June 2024)\nStatistical data analysis and visualization. Coded various statisical tests and visualizations using R and Rstudio. Focus on descriptive statistics, analyzing differences between populations, hypothesis testing, regression analysis, and types of bias. Developed Git and Github competency.\nSoils of California: Formation, Morphology and Management (April 2024 - June 2024)\nSoil genesis, classification, and sustainable land management in CA soils. Emphasis on soil descriptions, field methods, and management implications.\nFood, Agriculture and Environment (Jan 2023 - March 2023)\nConducted independent interview-based research project, focused on food justice and community advocacy, selected as model project for future students\nIntroductory Biology and Ecology (Sept 2022 - June 2023)\nBiology lab and field technique, experimental design, data collection, statistical analysis, scientific poster and paper writing"
+  },
+  {
+    "objectID": "edandexperience.html#experience",
+    "href": "edandexperience.html#experience",
+    "title": "Ava Toomey-Cordeiro",
+    "section": "Experience",
+    "text": "Experience\nStudent Worker (2023 - present) | Cheadle Center for Biodiversity and Ecological Restoration\nTasks include non-native plant eradication, ecological monitoring and data collection, and plant and animal identification. Promoted from unpaid intern to paid student worker position.\nUndergraduate Research Assistant (2023-present) | USCB EEMB Young Lab\nWorked with graduate students on project investigating marine influences on mammal diets along the Central Coast. Prepared samples for DNA extraction, entered data, and worked to organize large sample volumes.\nAgroecology Extension Undergraduate Research Fellow (2023) | University of Vermont\nEngaged in agroecological and entomological field research with Vermont Entomology Participatory Action Research Team (VEPART). Conducted weekly pest scouting on various farms, managed experiments, collected data, and attended weekly meetings. Pest scouting reports used to inform the local farming community and aid in pest management practices. Poster showcasing community impact displayed at Entomology Society of America 2023 Conference. Mentored highschoolers interested in agricultural science. Fellowship funded through a USDA REEU grant."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "avat-c.github.io",
+    "title": "Ava Toomey-Cordeiro",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Thanks for checking out my website! I’m excited to share a bit about myself with you."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Ava Toomey-Cordeiro",
+    "section": "",
+    "text": "Thanks for checking out my website! I’m excited to share a bit about myself with you."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Ava Toomey-Cordeiro",
+    "section": "About Me",
+    "text": "About Me\nI am a fourth-year student currently finishing a Bachelors of Science in Environmental Studies at the University of California, Santa Barbara. I am passionate about building sustainable food systems and am excited about the positive impacts of agroecological transitions on people and environment. Along with agriculture, I have interests in soil science, ecological restoration, entomology, and data-driven environmental policy. Outside of my academic interests, I love to hike, cook with friends, and swim in cold water!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Visions of Food Justice: Perspectives, Stories and Advice from Community Organizers and Food Distributors\nI conducted a ten-week interview project with impactful and inspirational community organizers and food distributors working to advance food justice in San Francisco, CA.\nView the report:\nDownload PDF\n\n\nParticipatory Pest Scouting and Monitoring Program: Farmer Impact\nDuring my Agroecology Extesion Undergraduate Research Fellowship at the University of Vermont, I conducted weekly pest scouting and research at various farms as a part of the participatory scouting and monitoring program developed by local farmers and VEPART (Vermont Entomology Participatory Action Research Team). I was given the opportunity to present the impacts of the program with my team at the Entomology Society of America 2023 conference.\nView the poster:\nDownload PDF\n\n\nData Visualization: Forest Cover and Watershed Indicators\nI cleaned and wrangled EPA data to create an interactive map visualizing forest cover change across CA from 2001 to 2016. I also cleaned and wrangled data from a National Water Quality Monitoring Council data set to visualize changes in key water quality indicators in Ventura County, CA over that same time period.\n\n\n\nChange in forest cover in CA\n\n\n\n\n\nWater Quality Indicators in Ventura, CA"
   }
 ]

@@ -1,0 +1,43 @@
+---
+title: ""
+---
+
+## Education
+
+**BS, Environmental Studies (2024)** \| University of California, Santa Barbara
+
+#### Relevant Coursework
+
+**Agroecology** (April 2024 - June 2024)
+
+Exploration of agroecology as a scientific discipline rooted in indigenous foodways. Focus on agroecological practices, socio-economic contexts of agroecology, and agroecological transitions at scale.
+
+**Environmental Data Science** (April 2024 - June 2024)
+
+Statistical data analysis and visualization. Coded various statisical tests and visualizations using R and Rstudio. Focus on descriptive statistics, analyzing differences between populations, hypothesis testing, regression analysis, and types of bias. Developed Git and Github competency.
+
+**Soils of California: Formation, Morphology and Management** (April 2024 - June 2024)
+
+Soil genesis, classification, and sustainable land management in CA soils. Emphasis on soil descriptions, field methods, and management implications.
+
+**Food, Agriculture and Environment** (Jan 2023 - March 2023)
+
+Conducted independent interview-based research project, focused on food justice and community advocacy, selected as model project for future students
+
+**Introductory Biology and Ecology** (Sept 2022 - June 2023)
+
+Biology lab and field technique, experimental design, data collection, statistical analysis, scientific poster and paper writing
+
+## Experience
+
+**Student Worker (2023 - present)** \| Cheadle Center for Biodiversity and Ecological Restoration
+
+Tasks include non-native plant eradication, ecological monitoring and data collection, and plant and animal identification. Promoted from unpaid intern to paid student worker position.
+
+**Undergraduate Research Assistant (2023-present)** \| USCB EEMB Young Lab
+
+Worked with graduate students on project investigating marine influences on mammal diets along the Central Coast. Prepared samples for DNA extraction, entered data, and worked to organize large sample volumes.
+
+**Agroecology Extension Undergraduate Research Fellow (2023)** \| University of Vermont
+
+Engaged in agroecological and entomological field research with Vermont Entomology Participatory Action Research Team (VEPART). Conducted weekly pest scouting on various farms, managed experiments, collected data, and attended weekly meetings. Pest scouting reports used to inform the local farming community and aid in pest management practices. Poster showcasing community impact displayed at Entomology Society of America 2023 Conference. Mentored highschoolers interested in agricultural science. Fellowship funded through a USDA REEU grant.
