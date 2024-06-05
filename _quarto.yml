@@ -14,8 +14,10 @@ website:
 
 format:
   html:
-    theme: morph
-    css: styles.css
+    theme: 
+      - morph 
+      - styles.scss
+    mainfont: Raleway
     toc: true
     page-layout: full
 
