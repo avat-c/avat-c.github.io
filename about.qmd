@@ -22,6 +22,8 @@ View the poster:
 
 I cleaned and wrangled EPA data to create an interactive map visualizing forest cover change across CA from 2001 to 2016. I also cleaned and wrangled data from a National Water Quality Monitoring Council data set to visualize changes in key water quality indicators in Ventura County, CA over that same time period.
 
+[Click to see the code](file:///Users/ava/Desktop/Rprojects/final_project/code/Ventura.html)
+
 ![](images/figure1.jpeg){width="20cm"}
 
 ![](images/figure2.jpeg){width="20cm"}
