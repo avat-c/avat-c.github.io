@@ -10,6 +10,8 @@ website:
       - about.qmd
       - href: edandexperience.qmd
         text: Education and Experience
+      - href: leadership.qmd
+        text: Outdoor Leadership
       
 
 format:
